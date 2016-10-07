@@ -1,0 +1,8 @@
+.tmp*
+*.pyc
+*.DS_Store
+.pydevproject
+.project
+build/
+dist/
+*.egg*
